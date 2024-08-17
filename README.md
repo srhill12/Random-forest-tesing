@@ -1,4 +1,4 @@
-```markdown
+
 # Bank Marketing Campaign Model: Overfitting Example
 
 This project demonstrates an example of overfitting using a Random Forest Classifier on a bank marketing dataset. Overfitting occurs when a model learns the training data too well, including noise and details that do not generalize well to unseen data, resulting in poor performance on test data.
